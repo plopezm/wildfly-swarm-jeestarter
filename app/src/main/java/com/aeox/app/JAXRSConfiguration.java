@@ -20,7 +20,7 @@ public class JAXRSConfiguration extends Application {
     public Set<Class<?>> getClasses() {
         Set<Class<?>> classes = new HashSet<>();
         //RESOURCES
-        classes.add(UserResource.class);
+        //classes.add(UserResource.class);
         //MAPPERS
         
         //PROVIDERS
