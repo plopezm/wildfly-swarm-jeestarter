@@ -4,7 +4,7 @@ This project is a archetype to speed up the development in JEE with wildfly swar
 
 # Explanation
 
-The explanation can be found in 
+The explanation can be found in http://plopezm.blogspot.co.at/2017/07/how-to-setup-new-jee-project-with.html
 
 
 # License
