@@ -1,8 +1,5 @@
 package com.aeox.app;
 
-
-import com.aeox.app.login.resource.UserResource;
-
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
 import java.util.HashSet;
