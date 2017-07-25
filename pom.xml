@@ -26,6 +26,8 @@
         <postgresql.ip>localhost</postgresql.ip>
         <postgresql.port>5432</postgresql.port>
         <postgresql.database>usermgmt</postgresql.database>
+        <postgresql.user>postgres</postgresql.user>
+        <postgresql.password>postgres</postgresql.password>
     </properties>
     <dependencyManagement>
         <dependencies>

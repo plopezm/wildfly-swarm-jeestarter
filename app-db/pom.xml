@@ -18,8 +18,8 @@
                 <version>${version.flyway.plugin}</version>
                 <configuration>
                     <url>jdbc:postgresql://${postgresql.ip}:${postgresql.port}/${postgresql.database}</url>
-                    <user>sa</user>
-                    <password>sa</password>
+                    <user>${postgresql.user}</user>
+                    <password>${postgresql.password}</password>
                 </configuration>
                 <dependencies>
                     <dependency>
